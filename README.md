@@ -41,7 +41,6 @@
 
 ### 📊 GitHub Stats:
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MertAcar&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MertAcar&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mertceng09901&show_icons=true&theme=dark)](https://github.com/mertceng09901)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mertceng09901&layout=compact&theme=dark)](https://github.com/mertceng09901)
